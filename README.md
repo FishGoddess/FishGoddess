@@ -6,7 +6,7 @@
 
 Here is something about me:
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=FishGoddess&count_private=true&line_height=20">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=FishGoddess&count_private=true&line_height=24">
 
 - 👻 我是个 90 后...
 - 🌱 热爱编程、音乐和一切有趣的东西...
@@ -15,9 +15,9 @@ Here is something about me:
 - 🦖 有趣的是，你会发现我还是个挺有趣的人...
 - 🔗 个人主页：[fishgoddess.cn](https://www.fishgoddess.cn)
 
-<img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FishGoddess&theme=github">
-<img align="left" width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FishGoddess&theme=github">
-<img align="right" width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FishGoddess&theme=github">
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FishGoddess&theme=github">
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FishGoddess&theme=github">
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FishGoddess&theme=github">
 
 <!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FishGoddess&theme=github)
