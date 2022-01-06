@@ -12,7 +12,6 @@ Here is something about me:
 - 🤝 所以，如果你想找我一起做开源，我想我会非常乐意...
 - 🦖 有趣的是，我的很多社交媒体账号都叫 `水不要鱼` 或者 `FishGoddess`...
 - 🔗 个人主页：[fishgoddess.cn](https://www.fishgoddess.cn)
-- ✉️ 个人邮箱：fishgoddess@qq.com
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FishGoddess&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FishGoddess&theme=github)
