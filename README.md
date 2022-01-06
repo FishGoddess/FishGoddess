@@ -15,11 +15,14 @@ Here is something about me:
 - 🦖 有趣的是，你会发现我还是个挺有趣的人...
 - 🔗 个人主页：[fishgoddess.cn](https://www.fishgoddess.cn)
 
+<img align="center" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FishGoddess&theme=github">
+<img align="left" width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FishGoddess&theme=github">
+<img align="right" width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FishGoddess&theme=github">
+
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FishGoddess&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FishGoddess&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FishGoddess&theme=github)
-
-<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FishGoddess&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FishGoddess&theme=github)
 -->
