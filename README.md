@@ -1,4 +1,4 @@
-### Hi, I am FishGoddess 👋🏻
+### Hi, I am Jay, aka FishGoddess 👋🏻
 
 <!--
 **FishGoddess/FishGoddess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
